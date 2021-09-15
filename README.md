@@ -14,3 +14,5 @@ Me llamo Christian, me gusta la música, los videojuegos, la informática...
 
 
 [Apuntes](https://github.com/Tabrih/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.md)
+
+[Mecanografía.md](https://github.com/Tabrih/1er-Trimestre/blob/main/Mecanograf%C3%ADa.md)
