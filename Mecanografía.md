@@ -13,7 +13,7 @@ He obtenido un resultado de 50 WPM y una precisión del 82%. Para ser un teclado
 
 Rato después he conseguido mejorarlo un poco, con 52 WPM y una precisión del 86%. Poco a poco.
 
-![]
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Captura%20de%20pantalla%20de%202021-09-15%2012-31-38.png)
 
 
 
