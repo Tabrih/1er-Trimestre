@@ -10,4 +10,7 @@ Me llamo Christian, me gusta la música, los videojuegos, la informática...
 
 [Mi mayor hobby]
 
+[Guía de Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+
 [Apuntes](https://github.com/Tabrih/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.md)
