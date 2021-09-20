@@ -1,6 +1,8 @@
 #       BIENVENIDOS 
 #     _1r Quatrimestre_
-                                      
+
+                                             15 de Septiembre de 2021
+
 Me llamo Christian, me gusta la música, los videojuegos, la informática...
 
 [Youtube](https://youtube.com)
