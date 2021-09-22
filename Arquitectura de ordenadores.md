@@ -92,4 +92,5 @@ i) 1
 Existen códigos que convierten números en letras
 
 ASCII (Antiguo) tiene 255 valores y caracteres latinos ( no tiene Ñ) y requiere 8 cifras. [Info ASCII](https://es.wikipedia.org/wiki/ASCII)
+
 UNICODE tiene hasta 100.000 caracteres. [Info UNICODE](https://es.wikipedia.org/wiki/Unicode)
