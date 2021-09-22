@@ -116,7 +116,7 @@ Portátil
 
 Procesador: 
 
-![URL]
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Procesador.png)
 
 
 
