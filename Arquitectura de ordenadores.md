@@ -17,7 +17,7 @@ Sistema Decimal = 10 , Sistema Binario = 2 , Sistema Octal = 8 , Sistema Hexadec
 
 1 000 000 en España  1.000.000 en EEUU  1000000 en Calculadora 
 
-1.000.000 en Binario = 101110011110100001001000000
+1.000.000 en Binario = 101110011110100001001000000 Tiene 27 cifras
 
 0 = 0
 
