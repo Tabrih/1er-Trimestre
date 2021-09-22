@@ -119,6 +119,8 @@ Su trabajo es interpretar las instrucciones de un programa informático mediante
 
 Sacado de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_central_de_procesamiento)
 
+![URL](https://i2.wp.com/codigoespagueti.com/wp-content/uploads/2021/02/intel-cpu.jpg?resize=1280%2C720&quality=80&ssl=1)
+
 ### RAM
 
 ### Teclados
