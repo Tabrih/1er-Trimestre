@@ -128,6 +128,46 @@ Memoria RAM:
 ![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Memoria%20RAM.png)
 
 
+Ventilador CPU:
+
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Ventilador%20CPU.png)
+
+
+Disco Duro: 
+
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Disco%20Duro.png)
+
+
+Caja de Torre:
+
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Caja%20de%20Torre.png)
+
+
+Fuente de Alimentación:
+
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Fuente%20de%20alimentaci%C3%B3n.png)
+
+
+Tarjeta Gráfica:
+
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Tarjeta%20gr%C3%A1fica.png)
+
+
+Monitor:
+
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Monitor.png)
+
+
+Teclado y Ratón:
+
+
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Teclado%20y%20Rat%C3%B3n.png)
+
+
+Sistema Operativo:
+
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Sistema%20Operativo.png)
+
 
 
  
