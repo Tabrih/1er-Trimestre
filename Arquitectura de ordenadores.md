@@ -14,7 +14,6 @@
 3 Hastag Subsección
 
 ### Índice
-[Clase de Binario](https://github.com/Tabrih/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.md#clase-de-binario)
 [Clase de Binario](#clase-de-binario)
 
 
@@ -81,7 +80,7 @@ c) 00100110 = 38
 
 d) 1110 = 14
 
-e) 111011101110 
+e) 111011101110 = 3822
 
 f) 10110110 
 
