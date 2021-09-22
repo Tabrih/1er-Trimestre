@@ -18,6 +18,7 @@
 
 [Arquitectura Ordenadores](#apuntes-arquitectura-ordenadores)
 
+[Creación de un Ordenador](#creaci%C3%B3n-de-un-ordenador)
 
 ## CLASE DE BINARIO
 
