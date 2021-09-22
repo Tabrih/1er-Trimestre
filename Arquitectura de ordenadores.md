@@ -115,6 +115,8 @@ Portátil
 
 ### RAM
 
+### Teclados
+
 ## Creación de un Ordenador
 
 Procesador: 
@@ -170,6 +172,8 @@ Teclado y Ratón:
 Sistema Operativo:
 
 ![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Sistema%20Operativo.png)
+
+En total tiene un precio de 942,60.
 
 
 
