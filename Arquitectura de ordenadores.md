@@ -123,6 +123,10 @@ Placa Base:
 
 ![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Placa%20Base.png)
 
+Memoria RAM:
+
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Memoria%20RAM.png)
+
 
 
 
