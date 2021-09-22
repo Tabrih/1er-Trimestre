@@ -116,4 +116,6 @@ Portátil
 
 [Ordenador](www.pccomponentes.com/configurador/87AdD3Eb3)
 
+
+
  
