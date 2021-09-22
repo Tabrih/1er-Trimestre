@@ -119,6 +119,11 @@ Procesador:
 ![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Procesador.png)
 
 
+Placa Base:
+
+![URL](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/Placa%20Base.png)
+
+
 
 
  
