@@ -3,7 +3,8 @@
 
                                              15 de Septiembre de 2021
 
-Me llamo Christian, me gusta la música, los videojuegos, la informática...
+Me llamo Christian, tengo 21 años, vengo de Sant Boi de Llobregat y me gusta la música, los videojuegos, la informática...
+Este curso me gustaría aprender lo máximo posible ya que la informática es algo que me apasiona, hay algunos conceptos que ya los conozco, pero son ínfimos comparado con todo lo que me queda por aprender, tengo muchas ganas de seguir aprendiendo.
 
 [Youtube](https://youtube.com)
 [Una de mis páginas favoritas]
