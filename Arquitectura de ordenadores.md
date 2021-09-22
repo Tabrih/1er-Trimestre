@@ -14,13 +14,25 @@
 
 3 Hastag Subsección
 
-## BINARIO
+## CLASE DE BINARIO
 
 EL sistema binario funciona con potencias de 2, por ejemplo 2,4,8,16,32,64.
 
 Sistema Decimal = 10 , Sistema Binario = 2 , Sistema Octal = 8 , Sistema Hexadecimal = 16
 
 [Info RGB](https://es.wikipedia.org/wiki/RGB)
+
+Notación Binaria 
+
+0b  Se utiliza para decirle a un ordenador que un número está en binario.
+Ox  Se utiliza para decirle a un ordenador que un número está en hexadecimal.
+
+1000 = Decimal
+
+0b 1000 = Binario
+
+0x 1000 = Hexadecimal
+
 
 0 = 0
 
@@ -46,8 +58,6 @@ Sistema Decimal = 10 , Sistema Binario = 2 , Sistema Octal = 8 , Sistema Hexadec
 
 16 = 10000
 
-
-
 1 000 000 en España  1.000.000 en EEUU  1000000 en Calculadora 
 
 
@@ -59,4 +69,29 @@ Sistema Decimal = 10 , Sistema Binario = 2 , Sistema Octal = 8 , Sistema Hexadec
 
 [Calculadora binaria que he usado](https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
 
+[Ejercicios de Práctica de Conversión de esta página](https://www.edu.xunta.gal/centros/iesdavidbujan/system/files/Practica+1+BINARIO+Y+DECIMAL.pdf)
 
+a) 10011110 = 158 
+
+b) 00010001 = 17
+
+c) 00100110 =
+
+d) 1110 
+
+e) 111011101110 
+
+f) 10110110 
+
+g) 0 
+
+h) 10 
+
+i) 1
+
+### Convertir números en letras
+
+Existen códigos que convierten números en letras
+
+ASCII (Antiguo) tiene 255 valores y caracteres latinos ( no tiene Ñ) y requiere 8 cifras. [Info ASCII](https://es.wikipedia.org/wiki/ASCII)
+UNICODE tiene hasta 100.000 caracteres. [Info UNICODE](https://es.wikipedia.org/wiki/Unicode)
