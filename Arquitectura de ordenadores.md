@@ -53,12 +53,10 @@ Sistema Decimal = 10 , Sistema Binario = 2 , Sistema Octal = 8 , Sistema Hexadec
 
 ### Ejercicios de Conversión
 
-
-[Calculadora binaria que he usado](https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
-
 1.000.000 en Binario = 101110011110100001001000000 Tiene 27 cifras
 
 11100110011001 en Decimal = 14745
 
+[Calculadora binaria que he usado](https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
 
 
