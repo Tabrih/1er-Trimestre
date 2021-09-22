@@ -122,6 +122,13 @@ Sacado de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_central_de_procesamie
 ![URL](https://i2.wp.com/codigoespagueti.com/wp-content/uploads/2021/02/intel-cpu.jpg?resize=1280%2C720&quality=80&ssl=1)
 
 ### RAM
+La  memoria  RAM  es  donde  el  ordenador  almacena  temporalmente  los  datos  y  los  programas 
+con  los  que  está  trabajando.  Todo  lo  que  hay  en  ella  almacenado  se  borra  cuando  apagamos  o 
+reiniciamos el ordenador. Físicamente es una placa rectangular de circuito impreso con varios chips, 
+que se acopla a la placa base a través de una ranura específica.
+
+Suelen tener distintas capacidades (2GB,4GB,8GB,etc...) También tienen distintos tipos de memoria, por ejemplo, DDR, DDR2, DDR3 y DDR4.
+
 
 ### Teclados
 
