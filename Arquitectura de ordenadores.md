@@ -117,7 +117,7 @@ El procesador es el hardware dentro de un ordenador, teléfono inteligente u otr
 
 Su trabajo es interpretar las instrucciones de un programa informático mediante la realización de las operaciones básicas aritméticas, lógicas y externas (provenientes de la unidad de entrada/salida).
 
-Sacado de Wikipedia [Wikipedia](https://es.wikipedia.org/wiki/Unidad_central_de_procesamiento)
+Sacado de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_central_de_procesamiento)
 
 ### RAM
 
