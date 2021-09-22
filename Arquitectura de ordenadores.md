@@ -16,6 +16,8 @@
 ### Índice
 [Clase de Binario](#clase-de-binario)
 
+[Arquitectura Ordenadores](#apuntes-arquitectura-ordenadores)
+
 
 ## CLASE DE BINARIO
 
