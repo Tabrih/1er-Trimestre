@@ -103,7 +103,7 @@ UNICODE tiene hasta 100.000 caracteres. [Info UNICODE](https://es.wikipedia.org/
 
 # Apuntes Arquitectura Ordenadores
 
-Portátil
+### Portátil
 
 - Transformador externo
 
@@ -136,6 +136,9 @@ Sacado de [Arquitectura de Ordenadores](https://grandecovian.es/FGC/files/D.%20T
 
 
 ### Teclados
+
+Son dispositivos de entrada activados por la pulsación de teclas. Incorporan un circuito de entrada que se comunica con el pc. Su conexión es USB
+
 
 ## Creación de un Ordenador
 
