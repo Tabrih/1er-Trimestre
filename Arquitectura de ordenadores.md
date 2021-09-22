@@ -7,16 +7,20 @@
                                                               
                                                        22 de Septiembre de 2021
  
-
 1 Hastag Título  más importante
 
 2 Hastag Sección
 
 3 Hastag Subsección
 
+### Índice
+[Clase de Binario](https://github.com/Tabrih/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.md#clase-de-binario)
+[Clase de Binario](#clase-de-binario)
+
+
 ## CLASE DE BINARIO
 
-EL sistema binario funciona con potencias de 2, por ejemplo 2,4,8,16,32,64.
+El sistema binario funciona con potencias de 2, por ejemplo 2,4,8,16,32,64.
 
 Sistema Decimal = 10 , Sistema Binario = 2 , Sistema Octal = 8 , Sistema Hexadecimal = 16
 
