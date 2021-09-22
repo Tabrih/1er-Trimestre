@@ -131,6 +131,7 @@ Suelen tener distintas capacidades (2GB,4GB,8GB,etc...) También tienen distinto
 
 Sacado de [Arquitectura de Ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
+
 ![URL](https://thumb.pccomponentes.com/w-530-530/articles/27/279642/corsair-vengeance-rgb-pro-optimizado-amd-ddr4-3200-16gb-2x8gb-cl16-opiniones.jpg)
 
 
