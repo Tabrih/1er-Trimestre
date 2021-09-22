@@ -7,21 +7,16 @@
                                                               
                                                        22 de Septiembre de 2021
  
+
+1 Hastag Título  más importante
+2 Hastag Sección
+3 Hastag Subsección
+
 ## BINARIO
 
 EL sistema binario funciona con potencias de 2, por ejemplo 2,4,8,16,32,64.
 
 Sistema Decimal = 10 , Sistema Binario = 2 , Sistema Octal = 8 , Sistema Hexadecimal = 16
-
-[Calculadora binaria que he usado](https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
-
-[Info RGB](https://es.wikipedia.org/wiki/RGB)
-
-1 000 000 en España  1.000.000 en EEUU  1000000 en Calculadora 
-
-1.000.000 en Binario = 101110011110100001001000000 Tiene 27 cifras
-
-11100110011001 en Decimal = 14745
 
 0 = 0
 
@@ -46,3 +41,20 @@ Sistema Decimal = 10 , Sistema Binario = 2 , Sistema Octal = 8 , Sistema Hexadec
 10 = 1010
 
 16 = 10000
+
+[Info RGB](https://es.wikipedia.org/wiki/RGB)
+
+1 000 000 en España  1.000.000 en EEUU  1000000 en Calculadora 
+
+
+### Ejercicios de Conversión
+
+
+[Calculadora binaria que he usado](https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
+
+1.000.000 en Binario = 101110011110100001001000000 Tiene 27 cifras
+
+11100110011001 en Decimal = 14745
+
+
+
