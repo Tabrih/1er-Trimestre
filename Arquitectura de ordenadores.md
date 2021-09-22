@@ -114,7 +114,10 @@ Portátil
 
 ## Creación de un Ordenador
 
-[Ordenador](www.pccomponentes.com/configurador/87AdD3Eb3)
+Procesador: 
+
+![URL]
+
 
 
 
