@@ -15,6 +15,8 @@ Sistema Decimal = 10 , Sistema Binario = 2 , Sistema Octal = 8 , Sistema Hexadec
 
 [Calculadora binaria que he usado](https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
 
+[Info RGB](https://es.wikipedia.org/wiki/RGB)
+
 1 000 000 en España  1.000.000 en EEUU  1000000 en Calculadora 
 
 1.000.000 en Binario = 101110011110100001001000000 Tiene 27 cifras
