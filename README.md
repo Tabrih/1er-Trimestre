@@ -19,3 +19,5 @@ Este curso me gustaría aprender lo máximo posible ya que la informática es al
 [Apuntes](https://github.com/Tabrih/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.md)
 
 [Mecanografía.md](https://github.com/Tabrih/1er-Trimestre/blob/main/Mecanograf%C3%ADa.md)
+
+[Clase de Binario](https://github.com/Tabrih/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.md#clase-de-binario)
