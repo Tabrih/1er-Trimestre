@@ -199,5 +199,31 @@ Sistema Operativo:
 En total tiene un precio de 942,60.
 
 
+## Tarjetas Gráficas
+
+- ¿Qué son?
+Una tarjeta gráfica o tarjeta de video es una tarjeta de expansión de la tarjeta madre o motherboard del ordenador que se encarga de procesar los datos provenientes del procesador y transformarlos en información comprensible y representable en el dispositivo de salida. Estas tarjetas utilizan una unidad de procesamiento gráfico o GPU, que muchas veces se usa erróneamente para referirse a la tarjeta gráfica en sí. También se les conoce como Adaptador de pantalla, Adaptador de vídeo, Placa de vídeo, y Tarjeta aceleradora de gráficos.
+
+Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Tarjeta_gr%C3%A1fica)
+
+- ¿Qué es una GPU?
+Una unidad de procesamiento gráfico o GPU es un coprocesador dedicado al procesamiento de gráficos u operaciones de coma flotante, para aligerar la carga de trabajo del procesador central en aplicaciones como los videojuegos o aplicaciones 3D interactivas. De esta forma, mientras gran parte de lo relacionado con los gráficos se procesa en la GPU, la CPU puede dedicarse a otro tipo de cálculos, como inteligencia artificial o a los cálculos mecánicos en los videojuegos.
+
+Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_procesamiento_gr%C3%A1fico)
+
+
+### Características de la gráfica que escogí, la Asus GeForce GT 1030 OC
+
+- Procesador gráfico: 
+
+
+- Memoria, tipo, cantidad, velocidad: 
+
+
+- Tipo de Interfaz
+
+
+-Salidas
+
 
  
