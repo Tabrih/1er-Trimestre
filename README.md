@@ -10,13 +10,12 @@ Este curso me gustaría aprender lo máximo posible ya que la informática es al
 [Una de mis páginas favoritas]
 
 ![URL](https://www.hdwallpapers.net/previews/batmobile-batman-arkham-knight-818.jpg)
-
 [Mi mayor hobby]
 
 [Guía de Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
-[Apuntes](https://github.com/Tabrih/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.md)
+[Apuntes Arquitectura de Ordenadores](https://github.com/Tabrih/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.md)
 
 [Mecanografía.md](https://github.com/Tabrih/1er-Trimestre/blob/main/Mecanograf%C3%ADa.md)
 
