@@ -66,19 +66,24 @@
 
 - Funcionaría el ordenador?
 
+  No, ya que le falta el disco duro.
   
   
   - Le faltan piezas? 
 
+   Si, le falta el disco duro.
+
 - ¿Cómo es el ordenador que tengo que desmontar?
 
-
+ Es un ordenador con una caja negra y gris bastante pesada.
+ 
+ Aquí dejo unas imágenes del mismo:
 
 
 
 - ¿Tiene alguna pieza reutilizable?
 
-
+ Si, la memoria RAM y el lector de CDs.
 
 
 
