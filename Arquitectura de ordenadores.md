@@ -199,7 +199,7 @@ Sistema Operativo:
 En total tiene un precio de 942,60.
 
 
-## Tarjetas Gráficas
+### Tarjetas Gráficas
 
 - ¿Qué son?
 
@@ -214,7 +214,7 @@ Una unidad de procesamiento gráfico o GPU es un coprocesador dedicado al proces
 Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_procesamiento_gr%C3%A1fico)
 
 
-### Características de la gráfica que escogí, la Asus GeForce GT 1030 OC
+#### Características de la gráfica que escogí, la Asus GeForce GT 1030 OC
 
 - Procesador gráfico: NVIDIA GeForce® GT 1030
 
@@ -228,7 +228,7 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
 - Salidas: HDMI (Version 2.0) DL-DVI-D
 
 
-## Discos Duros
+### Discos Duros
 
 - ¿Qué son?
 
