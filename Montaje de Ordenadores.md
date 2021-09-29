@@ -76,7 +76,7 @@
 
   No, ya que le falta el disco duro.
   
-  - Le faltan piezas? 
+ - Le faltan piezas? 
 
    Si, le falta el disco duro.
 
