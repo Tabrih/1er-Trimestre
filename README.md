@@ -11,7 +11,7 @@ Este curso me gustaría aprender lo máximo posible ya que la informática es al
 
 ![URL](https://www.hdwallpapers.net/previews/batmobile-batman-arkham-knight-818.jpg)
 
-[Mi mayor hobby]
+Mi mayor hobby
 
 [Guía de Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
