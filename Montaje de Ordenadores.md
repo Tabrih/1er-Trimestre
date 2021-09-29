@@ -86,6 +86,12 @@
  
  Aquí dejo unas imágenes del mismo:
 
+[URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114820.jpg)
+
+[URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114922.jpg)
+
+[URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114925.jpg)
+
 
 
 - ¿Tiene alguna pieza reutilizable?
