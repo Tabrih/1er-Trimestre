@@ -225,7 +225,7 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
 - Tipo de Interfaz
 
 
--Salidas
+- Salidas
 
 
  
