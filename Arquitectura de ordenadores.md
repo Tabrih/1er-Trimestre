@@ -239,5 +239,9 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
  
  - ¿Tengo un disco duro mágnetico de 100 Gigabytes, cuántos sectores tiene si cada sector es de 512 bytes?
 
+  100 GB x 1024 Mb = 102400 Mb x 1024 Kb = 104857600 Kb x 1024 Bytes = 107374182400 Bytes ÷ 512 Bytes = 209715200 Bytes
+ 
  Tiene aproximadamente 209 millones de sectores.
+ 
+
  
