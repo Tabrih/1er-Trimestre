@@ -228,4 +228,7 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
 - Salidas: HDMI (Version 2.0) DL-DVI-D
 
 
+## Discos Duros
+
+- ¿Qué son?
  
