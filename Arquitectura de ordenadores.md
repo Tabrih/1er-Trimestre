@@ -237,3 +237,7 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
  
  #### Formateos y Sectores
  
+ - ¿Tengo un disco duro mágnetico de 100 Gigabytes, cuántos sectores tiene si cada sector es de 512 bytes?
+
+ Tiene aproximadamente 209 millones de sectores.
+ 
