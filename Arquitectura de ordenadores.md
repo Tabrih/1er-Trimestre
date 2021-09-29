@@ -216,16 +216,16 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
 
 ### Características de la gráfica que escogí, la Asus GeForce GT 1030 OC
 
-- Procesador gráfico: 
+- Procesador gráfico: NVIDIA GeForce® GT 1030
 
 
-- Memoria, tipo, cantidad, velocidad: 
+- Memoria, tipo, cantidad, velocidad: 2048 MB a 3004 MHz de tipo GDDR5
 
 
-- Tipo de Interfaz
+- Tipo de Interfaz: PCI Express x16 3.0
 
 
-- Salidas
+- Salidas: HDMI (Version 2.0) DL-DVI-D
 
 
  
