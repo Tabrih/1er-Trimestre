@@ -22,4 +22,4 @@ Este curso me gustaría aprender lo máximo posible ya que la informática es al
 
 [Clase de Binario](https://github.com/Tabrih/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.md#clase-de-binario)
 
-[Montaje de Ordenadore.md](https://github.com/Tabrih/1er-Trimestre/blob/main/Montaje%20de%20Ordenadores.md)
+[Montaje de Ordenadores.md](https://github.com/Tabrih/1er-Trimestre/blob/main/Montaje%20de%20Ordenadores.md)
