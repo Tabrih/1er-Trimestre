@@ -245,4 +245,11 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
  
  Existen dos tipos de Formateos: Formateo estándar y Formateo de Bajo Nivel
 
+
+#### Formatos de Archivo
+
+Windows: FAT, FAT32, NTFS
+
+Linux: EXT2, EXT3, EXT4
+
  
