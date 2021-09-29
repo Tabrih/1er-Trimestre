@@ -235,3 +235,5 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
  Es  un  dispositivo  de  almacenamiento  permanente  de  tipo  magnético,  donde  se  guardan  los 
  archivos del sistema operativo, los programas y los archivos del propio usuario.
  
+ #### Formateos y Sectores
+ 
