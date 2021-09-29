@@ -11,7 +11,7 @@
  
  - ¿Quién fue el fotógrafo?
 
-  David fue el fotógrafo.
+   David fue el fotógrafo.
   
   
  - Proceso de desmontaje 
