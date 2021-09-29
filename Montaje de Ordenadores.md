@@ -11,10 +11,18 @@
  
  - ¿Quién fue el fotógrafo?
 
-  David fue el fotógrafo
+  David fue el fotógrafo.
   
   
  - Proceso de desmontaje 
+
+
+
+ - Proceso de montaje
+
+
+
+ - ¿Qué habéis aprendido? 
 
 
 
@@ -67,7 +75,6 @@
 - Funcionaría el ordenador?
 
   No, ya que le falta el disco duro.
-  
   
   - Le faltan piezas? 
 
