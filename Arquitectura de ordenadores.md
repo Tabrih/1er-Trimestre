@@ -243,5 +243,6 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
  
  Tiene aproximadamente 210 millones de sectores.
  
+ Existen dos tipos de Formateos: Formateo estándar y Formateo de Bajo Nivel
 
  
