@@ -24,6 +24,8 @@
 
  - ¿Qué habéis aprendido? 
 
+   Hemos visto el ordenador por dentro y hemos aprendido las partes de este y donde están situadas. También hemos aprendido a montarlas y desmontarlas.
+
 
 
 
