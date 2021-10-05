@@ -250,7 +250,7 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
  
  - Capacidad : 1000 GB
  
- - [Precio](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3)32,39 Euros
+ - [Precio](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3) : 32,39 Euros
  
  - Interfaz : Serial ATA III
 
