@@ -16,11 +16,25 @@
   
  - Proceso de desmontaje 
 
+Esta es la fuente de alimentación:
+
+
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120321.jpg)
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120333.jpg)
 
+Qué cosas puedo sacar de de estas fotografías:
+
+Poco porque no se ven apenas detalle peeero en el ventilador pone temas del propio ventilador. Lo sé porque pone "brushless", que es un tipo de motor. 
+
+
+Esto es el disco duro :
+
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121620.jpg)
+
+Que puedo sacar de esta fotografía:
+
+No mucho, pero se puede apreciar que es de la marca samsung y que es del 12 de Diciembre del 2005.
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121805.jpg)
 
