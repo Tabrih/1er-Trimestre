@@ -28,6 +28,15 @@
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123126.jpg)
 
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123455.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123506.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
+ 
+ 
+ 
+ 
  - Proceso de montaje
 
 
