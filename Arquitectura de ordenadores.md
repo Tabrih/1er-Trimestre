@@ -245,9 +245,24 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
  Tiene aproximadamente 210 millones de sectores.
  
  Existen dos tipos de Formateos: Formateo estándar y Formateo de Bajo Nivel
+ 
+ El disco duro que escogí fue el Seagate BarraCuda 35  de 1TB de capacidad con interfaz SATA3:
+ 
+ - Capacidad : 1000 GB
+ 
+ - [Precio](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3)32,39 Euros
+ 
+ - Interfaz : Serial ATA III
 
+ - Tamaño del búfer : 64 MB
 
-#### Formatos de Archivo
+ - Velocidad de giro(Si procede) : 7200 RPM
+
+ - Tipo : Magnético
+ 
+ [Manual del disco](https://www.seagate.com/files/www-content/datasheets/pdfs/3-5-barracudaDS1900-14-2007LA-es_ES.pdf)
+ 
+ ### Formatos de Archivo
 
 Windows: FAT, FAT32, NTFS
 
