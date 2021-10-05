@@ -268,5 +268,8 @@ Servidor Wi-fi o punto de acesso Wi-fi tiene Protocolo TCP/IP, pero no tiene por
 
 DHCP--> Asignar de forma automática las ips de los ordenadores conectados, por ejemplo 255.255.0.193. Antes se hacia de forma manual.
 
+Ataque DDOS--> Pedir a la vez demasiadas cosas a un mismo servidor.
+
+Stream : Arroyo--> Arroyo
 
  
