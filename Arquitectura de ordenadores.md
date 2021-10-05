@@ -264,7 +264,7 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
  
  [Manual del disco](https://www.seagate.com/files/www-content/datasheets/pdfs/3-5-barracudaDS1900-14-2007LA-es_ES.pdf)
  
- 
+  
  Con aproximadamente 80 euros he escogido el SeaGate IronWolf Pro NAS 3.5" :
  
  - Capacidad : 2000 GB
