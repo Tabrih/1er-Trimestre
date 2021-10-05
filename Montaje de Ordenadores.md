@@ -100,7 +100,6 @@ Fuente de alimentación, disipador, placa base, disco duro, memorias RAM, ventil
  
  - Proceso de montaje
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_130223-1.jpg)
 
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_130223.jpg)
