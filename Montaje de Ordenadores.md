@@ -75,7 +75,7 @@ Placa base:
 
 Que puedo sacar de esta fotografía:
 
-Se puede apreciar la placa base entera, en la cual se puede destacar que el procesador esté en el zócalo o que esta misma tiene un tarjeta gráfica integrada.
+Se puede apreciar la placa base entera, en la cual se puede destacar que el procesador esté en el zócalo o que esta misma tiene un tarjeta gráfica integrada, también se puede ver que fue creada por HP.
 
 
 
