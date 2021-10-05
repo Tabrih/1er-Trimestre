@@ -49,7 +49,7 @@ Bastantes cosas, como que 2 de las memorias son de Kingston, mientras que las ot
 
 
 
-Ventilador
+Ventilador:
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_122850.jpg)
 
@@ -90,6 +90,7 @@ Nada, son los diferentes componentes mencionados anteriormente pero con la difer
 
 
 Fuente de alimentación, disipador, placa base, disco duro, memorias RAM, ventilador y cable SATA:
+
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
  
  Que puedo sacar de esta fotografía:
