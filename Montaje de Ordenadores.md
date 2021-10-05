@@ -100,11 +100,25 @@ Fuente de alimentación, disipador, placa base, disco duro, memorias RAM, ventil
  
  - Proceso de montaje
 
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_130223-1.jpg)
+
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_130223.jpg)
+
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115135.jpg)
+
+
+
+
+
+
+
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/IMG_20210929_115041.jpg)
 
 Que puedo sacar de esta fotografía:
 
-Aquí estábamos montando el ordenador de nuevo.
+Aquí acabamos de montar el ordenador de nuevo.
 
  - ¿Qué habéis aprendido? 
 
