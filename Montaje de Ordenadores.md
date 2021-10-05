@@ -16,6 +16,7 @@
   
  - Proceso de desmontaje 
 
+![URL](
 
 
  - Proceso de montaje
@@ -94,6 +95,7 @@
 
 ![URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114925.jpg)
 
+![URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115323.jpg)
 
 
 - ¿Tiene alguna pieza reutilizable?
