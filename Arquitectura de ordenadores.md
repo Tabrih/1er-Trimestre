@@ -253,6 +253,19 @@ Windows: FAT, FAT32, NTFS
 Linux: EXT2, EXT3, EXT4
 
 
+## Internet y redes 
+
+### Redes Locales LAN
+ 
+LAN: Local Area Network
+
+Protocolo TCP/IP ---> IPv4, tiene 4 bytes y tienen rango de 0 a 256, por ejemplo 192.168.0.1 ( El propio PC)
+
+Un switch es un dispositivo de interconexión utilizado para conectar equipos en red formando lo que se conoce como una red de área local (LAN) y cuyas especificaciones técnicas siguen el estándar conocido como Ethernet (o técnicamente IEEE 802.3). De esta [página](http://www.trabajosocial.unlp.edu.ar/uploads/docs/switch__routers_y_acces_point__conceptos_generales.pdf)
+
+Servidor Wi-fi o punto de acesso Wi-fi tiene Protocolo TCP/IP, pero no tiene porque tener internet.
+
+DHCP--> Asignar de forma automática las ips de los ordenadores conectados, por ejemplo 255.255.0.193. ANtes se hacia de forma manual.
 
 
  
