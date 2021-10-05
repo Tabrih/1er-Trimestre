@@ -34,7 +34,7 @@ Esto es el disco duro :
 
 Que puedo sacar de esta fotografía:
 
-No mucho, pero se puede apreciar que es de la marca samsung y que es del 12 de Diciembre del 2005.
+No mucho, pero se puede apreciar que es de la marca Samsung y que es del 12 de diciembre del 2005.
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121805.jpg)
 
