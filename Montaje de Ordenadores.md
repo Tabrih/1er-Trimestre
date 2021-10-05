@@ -39,7 +39,7 @@
  
  - Proceso de montaje
 
-
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/IMG_20210929_115041.jpg)
 
  - ¿Qué habéis aprendido? 
 
