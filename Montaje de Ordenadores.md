@@ -171,7 +171,7 @@ Aquí acabamos de montar el ordenador de nuevo.
 
 - ¿De qué año es?
 
- Es posible de que sea entre los años 2005/2009. 
+ Es posible de que sea entre los años 2005/2009
 
 - Funcionaría el ordenador?
 
