@@ -274,7 +274,12 @@ Stream : Arroyo de Datos--> Corriente de agua
 
 UTP
 
-Puertos---> Puertas, Abiertas o Cerradas---> 80---> htts             Ambos son hipertextos
+Puertos---> Puertas, Abiertas o Cerradas---> 80---> htts y 442 --> https  Ambos son hipertextos
          
-                                             442 --> https 
+LAN 
+
+4 bytes IPv4
+
+255.255.255.255  Hay un máximo 4228250625 de ordenadores en IPv4, IPv6 permiten que se conecten más dispositivos. 
+                                             
  
