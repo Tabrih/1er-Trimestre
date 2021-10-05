@@ -16,8 +16,13 @@
   
  - Proceso de desmontaje 
 
-![URL](
+![URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120321.jpg)
 
+![URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120321.jpg)
+
+![URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120333.jpg)
+
+!
 
  - Proceso de montaje
 
