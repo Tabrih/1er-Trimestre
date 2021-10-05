@@ -79,17 +79,31 @@ Se puede apreciar la placa base entera, en la cual se puede destacar que el proc
 
 
 
+Fuente de alimentación, disipador, ventilador, memorias RAM, disco duro y cable SATA:
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123506.jpg)
 
+Que puedo sacar de esta fotografía:
+
+Nada, son los diferentes componentes mencionados anteriormente pero con la diferencia de que aparece el cable SATA.
+
+
+
+Fuente de alimentación, disipador, placa base, disco duro, memorias RAM, ventilador y cable SATA:
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
  
+ Que puedo sacar de esta fotografía:
  
+ Mismos compenentes que en las otras fotografías pero con el añadido de la placa base.
  
  
  - Proceso de montaje
 
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Partes%20de%20un%20Ordenador/IMG_20210929_115041.jpg)
+
+Que puedo sacar de esta fotografía:
+
+Aquí estábamos montando el ordenador de nuevo.
 
  - ¿Qué habéis aprendido? 
 
