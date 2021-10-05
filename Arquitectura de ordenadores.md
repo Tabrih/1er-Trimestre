@@ -266,7 +266,7 @@ Un switch es un dispositivo de interconexión utilizado para conectar equipos en
 
 Servidor Wi-fi o punto de acesso Wi-fi tiene Protocolo TCP/IP, pero no tiene porque tener internet.
 
-DHCP--> Asignar de forma automática las ips de los ordenadores conectados, por ejemplo 255.255.0.193. ANtes se hacia de forma manual.
+DHCP--> Asignar de forma automática las ips de los ordenadores conectados, por ejemplo 255.255.0.193. Antes se hacia de forma manual.
 
 
  
