@@ -16,13 +16,17 @@
   
  - Proceso de desmontaje 
 
-![URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120321.jpg)
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120321.jpg)
 
-![URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120321.jpg)
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120333.jpg)
 
-![URL](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120333.jpg)
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121620.jpg)
 
-!
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121805.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_122850.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123126.jpg)
 
  - Proceso de montaje
 
