@@ -246,23 +246,64 @@ Información sacada de [Wikipedia](https://es.wikipedia.org/wiki/Unidad_de_proce
  
  Existen dos tipos de Formateos: Formateo estándar y Formateo de Bajo Nivel
  
+ ### Reflexión sobre precios
+ 
  El disco duro que escogí fue el Seagate BarraCuda 35  de 1TB de capacidad con interfaz SATA3:
  
  - Capacidad : 1000 GB
  
- - [Precio](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3) : 32,39 Euros
+ - [Precio](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3) : 32,39€  
  
  - Interfaz : Serial ATA III
 
  - Tamaño del búfer : 64 MB
 
- - Velocidad de giro(Si procede) : 7200 RPM
+ - Velocidad de giro (Si procede) : 7200 RPM
 
  - Tipo : Magnético
  
  [Manual del disco](https://www.seagate.com/files/www-content/datasheets/pdfs/3-5-barracudaDS1900-14-2007LA-es_ES.pdf)
  
- ### Formatos de Archivo
+ 
+ Con aproximadamente 80 euros he escogido el SeaGate IronWolf Pro NAS 3.5" :
+ 
+ - Capacidad : 2000 GB
+
+ - [Precio](https://www.pccomponentes.com/seagate-ironwolf-pro-nas-35-2-tb-sata-3) : 81,73€
+
+ - Interfaz :  Serial ATA III
+
+ - Tamaño del búfer : 64 MB
+
+ - Velocidad de giro (Si procede) : 5900 RPM
+
+ - Tipo : Magnético 
+
+ [Manual del disco](https://www.seagate.com/www-content/datasheets/pdfs/ironwolf-pro-12tb-DS1914-6-1708ES-es_ES.pdf)
+ 
+ 
+ Con aproximadamente 300 euros he escogido Samsung T7 :
+ 
+ - Capacidad : 2000 GB
+
+ - [Precio](https://www.pccomponentes.com/samsung-t7-ssd-2tb-usb-c-rojo) : 291,63€
+
+ - Interfaz : Externa 
+
+ - Tamaño del búfer : No tiene
+
+ - Velocidad de giro (Si procede) : No tiene
+
+ - Tipo : De estado sólido
+
+ [Manual del Disco](https://www.samsung.com/es/support/model/MU-PC2T0R/WW/)
+ 
+  No sale a cuenta gastarse de mas si vas a usar ese espacio.
+ 
+ 
+
+
+### Formatos de Archivo
 
 Windows: FAT, FAT32, NTFS
 
