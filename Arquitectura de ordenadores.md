@@ -274,4 +274,7 @@ Stream : Arroyo de Datos--> Corriente de agua
 
 UTP
 
+Puertos---> Puertas              ---> 80---> htts ---------
+         '                                                ' Hipertexto
+         '-> Abiertas o Cerradas      ---> 442 --> https--- 
  
