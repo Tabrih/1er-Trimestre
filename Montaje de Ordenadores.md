@@ -171,7 +171,7 @@ Aquí acabamos de montar el ordenador de nuevo.
 
 - ¿De qué año es?
 
- Es posible de que sea entre los años 2005/2009
+ Es posible de que sea entre los años 2007/2008/2009 ya que su procesador, ya que el Pentium D salió en el 2005, aparte de que es compatible con Windows Vista y este salió en el 2007.
 
 - Funcionaría el ordenador?
 
