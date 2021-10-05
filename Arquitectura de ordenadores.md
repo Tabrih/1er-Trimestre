@@ -270,6 +270,8 @@ DHCP--> Asignar de forma automática las ips de los ordenadores conectados, por 
 
 Ataque DDOS--> Pedir a la vez demasiadas cosas a un mismo servidor.
 
-Stream : Arroyo--> Corriente de agua
+Stream : Arroyo de Datos--> Corriente de agua
+
+UTP
 
  
