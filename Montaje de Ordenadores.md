@@ -28,6 +28,7 @@ Qué cosas puedo sacar de de estas fotografías:
 Poco porque no se ven apenas detalle peeero en el ventilador pone temas del propio ventilador. Lo sé porque pone "brushless", que es un tipo de motor. 
 
 
+
 Esto es el disco duro:
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121620.jpg)
@@ -35,6 +36,7 @@ Esto es el disco duro:
 Que puedo sacar de esta fotografía:
 
 No mucho, pero se puede apreciar que es de la marca Samsung y que es del 12 de diciembre del 2005.
+
 
 
 Memoria RAM:
@@ -46,6 +48,7 @@ Que puedo sacar de esta fotografía:
 Bastantes cosas, como que 2 de las memorias son de Kingston, mientras que las otras 2 restantes son de Samsung. También se puede apreciar que las de Samsung son de 256MB cada una y las de Kingston de 1 GB respectivamente, por lo tanto este ordenador tiene 2,5 GB de RAM.
 
 
+
 Ventilador
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_122850.jpg)
@@ -55,9 +58,27 @@ Que puedo sacar de esta fotografía:
 Como en la anterior foto de la fuente de alimentación, pone temas del ventilador, como los amperios o los vatios.
 
 
+
+Disipador del procesador:
+
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123126.jpg)
 
+Que puedo sacar de esta fotografía:
+
+Por desgracia desde abajo no hay mucha cosa, pero lo suficiente como para documentar, como restos de la pasta térmica incrustada en la parte de abajo.
+
+
+
+Placa base:
+
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123455.jpg)
+
+Que puedo sacar de esta fotografía:
+
+Se puede apreciar la placa base entera, en la cual se puede destacar que el procesador esté en el zócalo o que esta misma tiene un tarjeta gráfica integrada.
+
+
+
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123506.jpg)
 
