@@ -405,7 +405,7 @@ Funciones básicas:
  
  - Hablar con el hardware
 
- - Establecer conexiones (wi-fi, LAN, BT, 4G
+ - Establecer conexiones (wi-fi, LAN, BT, 4G)
 
  - Interfaz básica de usuario
 
