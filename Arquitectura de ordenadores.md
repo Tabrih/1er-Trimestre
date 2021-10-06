@@ -387,6 +387,6 @@ Para cambiar la unidad, se utiliza el sistema internacional, es decir múltiplos
 
 Es decir: 1 MHz = 1.000.000 Hz  1KHz = 1000 Hz
 
-25 Mhz 
+25 Mhz    512 bytes/paquete         ¿Velocidad?
 
-              
+25 Mill  x 512 bytes/paquete       12.800.000.000 b/s = 11,9 GB/s         
