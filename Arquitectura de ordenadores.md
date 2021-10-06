@@ -343,4 +343,50 @@ LAN
 
 Velocidad = Frecuencia x Ancho de banda
 
-160000 bits/s = 160000 &divide 8 &divide 1024
+160000 bits/s = 160000 ÷ 8 ÷ 1024 = 19,5 KB/s
+
+Los buses de datos tienen una determinada capacidad de transmisión de información. Esta capacidad se mide en información/segundo, por ejemplo bits/s, KB/s, MB/s, GB/s.
+
+Para pasar de una unidad a otra tendremos que multplicar o dividir. 
+
+Para pasar de bits (b) a bytes (B) dividimos entre 8, que es el número de bits en un byte.
+
+Para pasar de byte (b) a Kilobyte (KB) dividimos entre 1024, que es el número de bytes en un KiloByte.
+
+Para pasar de Kilobyte (KB) a MegaByte (MB) dividimos entre 1024, que es el número de KiloBytes.
+
+Para pasar de MegaByte (MB) a GigaByte (GB) dividimos entre 1024, que es el número de MegaBytes.
+
+Para pasar de GigaByte (GB) a Terabyte (TB) dividimos entre 1024, que es el número de GigaBytes.
+
+Su hubiera que pasar de bit a MB, se unen varias divisiones, en este caso : primero divimos entre 8 y luego 2 veces entre 1024.
+
+Si pasamos de unidades grandes a pequeñas multiplicaremos en vez de dividir.
+
+La velocidad de transmisión es iguala de a la frecuencia de transmisión del bus multplicidado por el mínimo de bits por paquete. El número de bits de paquete depende de cuantas conexiones tenga.
+
+
+
+Unidades de la frecuencia
+
+La frecuencia se mide en Hertz, herzios o segundos a la menos 1 (1/s)
+
+1 herzio representa que algo ocurre una vez por segundo
+
+0,1 herzios representa que algo ocurre una vez cada 10 segundos.
+
+5 herzios representa que algo ocurre 5 veces por segundo.
+
+En informática estas frecuencias pueden referirse habitualmente a
+     
+     - Frecuencias de reloj para transmitir datos (MHz, GHz)
+     
+     - Frecuencias de sonido (Hz, KHz)
+     
+Para cambiar la unidad, se utiliza el sistema internacional, es decir múltiplos y submúltiplos en base decimal. 
+
+Es decir: 1 MHz = 1.000.000 Hz  1KHz = 1000 Hz
+
+25 Mhz 
+
+              
