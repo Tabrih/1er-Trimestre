@@ -337,8 +337,13 @@ LAN
 4 bytes IPv4
 
 255.255.255.255  Hay un máximo 4228250625 de ordenadores en IPv4, IPv6 permiten que se conecten más dispositivos. 
-                                             
- 
+                                              
+
+
+                                                              6 de Octubre de 2021
+
+
+
 ### Tarjetas de sonido
 
 Velocidad = Frecuencia x Ancho de banda
