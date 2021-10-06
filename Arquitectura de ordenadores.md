@@ -401,7 +401,7 @@ Es decir: 1 MHz = 1.000.000 Hz  1KHz = 1000 Hz
 
 Windows 10, Linux (ubuntu), iOS, Android, MacOS
 
-Funciones básicas
+Funciones básicas:
  
  - Hablar con el hardware
 
