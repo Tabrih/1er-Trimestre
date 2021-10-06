@@ -394,4 +394,23 @@ Es decir: 1 MHz = 1.000.000 Hz  1KHz = 1000 Hz
 
 25 Mhz    512 bytes/paquete         ¿Velocidad?
 
-25 Mill  x 512 bytes/paquete       12.800.000.000 b/s = 11,9 GB/s         
+25 Mill  x 512 bytes/paquete       12.800.000.000 b/s = 11,9 GB/s     
+
+
+### Sistema Operativo
+
+Windows 10, Linux (ubuntu), iOS, Android, MacOS
+
+Funciones básicas
+ 
+ - Hablar con el hardware
+
+ - Establecer conexiones (wi-fi, LAN, BT, 4G
+
+ - Interfaz básica de usuario
+
+ - Acceder y administrar discos 
+
+ - Acesso básico de archivos
+
+ - Permitir instalar otros programas
