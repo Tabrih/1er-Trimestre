@@ -125,6 +125,6 @@ Vamos a tomar la imagen del cuadro del león de Rosa Bonheur.
 
 Esta es la imagen rásterizada original.
 
-![]()
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/L%C3%A9on%20Rosa%20Bonheur.jpg)
 
 [Fuente](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
