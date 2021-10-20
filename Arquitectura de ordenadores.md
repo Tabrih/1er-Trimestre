@@ -418,4 +418,14 @@ Funciones básicas:
 
 # Examen 
 
+Los bits tienen dos valores, 0 y 1
+
+Interfaz puede ser :
+
+- Tipo de conexión: Física o protocolo
+
+- De Usuario
+
+- Gráfica 
+
 
