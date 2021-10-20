@@ -141,8 +141,6 @@ Una única pasada tenemos:
 
 Varias pasadas nos permite hacer una imagen vectorial más compleja, con varios grises o colores. Esto necesita más capacidad de proceso.
 
-[León1.svg] 
-
 Después de importar el león, vamos a ajustr el lienzo, para ello vamos a propiedades de documento --> En tamaño, vamos a ajustar página o contenido
 selecionamos la imagen y pulsamos el botón Ajustar página a contenido o selección
 
@@ -155,4 +153,10 @@ selecionamos la imagen y pulsamos el botón Ajustar página a contenido o selecc
 - Guardamos como León 1.svg
 
 - Subimos al Github
+
+![León 1]()
+
+![León 2]()
+
+![León 3]()
 
