@@ -25,13 +25,13 @@ o 16/9(Cine)
 
 Las líneas horizontales suelen ser :
 
-240 p (240 píxeles de alto)
+240p (240 píxeles de alto)
 
-480 p
+480p
 
-720 p
+720p
 
-1080 p --> HD(1080 píxeles de alto)
+1080p --> HD(1080 píxeles de alto)
 
 2k 
 
