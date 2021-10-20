@@ -110,3 +110,5 @@ Específicos
 Formato mezcla Ráster y vectorial
 
 - PDF = Portable Document Format
+
+Rasterizamos una imagen, cuando pasamos de una imagen vectorial a una imagen ráster (mapa de bits).
