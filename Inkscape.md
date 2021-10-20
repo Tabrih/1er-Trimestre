@@ -14,7 +14,7 @@ Otra forma de colores primarios es llamada: CMYK(Cyan,Magenta,Yellow,Black)
 
 Propiedaddes de una imagen Ráster
 
-*Resolución. Un mapa de bits tiene un tamaño concreto de A x B
+*Resolución*. Un mapa de bits tiene un tamaño concreto de A x B
 
 La resoulción se puede expresar de diferentes formas:
 
