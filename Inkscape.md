@@ -78,3 +78,15 @@ Otros particulures:
 - PSO
 
 - RAW (Foto sin comprimir)
+
+IMÁGENES VECTORIALES
+
+Se define la imagen como un conjunto de formas (Líneas, Puntos,etc) Cada una de estas formas está definida matemáticamente.
+
+Por ejemplo un círculo se define como un relleno. 
+
+Forma = Círculo
+
+Radio = 30 píxeles
+
+Borde = 1 ancho, color rosa
