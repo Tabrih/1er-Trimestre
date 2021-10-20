@@ -128,3 +128,5 @@ Esta es la imagen rásterizada original.
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/El%20Cid.jpg)
 
 [Fuente](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
+
+Abrimos Inkscape
