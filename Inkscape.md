@@ -69,7 +69,7 @@ FORMATOS COMUNES
 
 - PNG --> No tiene compresión. Admite alfa
 
-![](https://github.com/Tabrih/1er-Trimestre/blob/main/Batman.png)
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Astronauta.png)
 
 - TIFF --> Sin compresión
 
