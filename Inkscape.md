@@ -57,7 +57,7 @@ NO CONFUNDIR con la resolución de impresión, medida en puntos por pulgad (ppp)
 
 - Canal (como los 3 canales de RGB) de transparencia. Este canal de llama alfa (α). Los PNG pueden tenerlos, los GIFs o los JPG no.
 
-FORMATOS COMUNES 
+### FORMATOS COMUNES 
 
 - JPG ( y JPEG) --> Tiene congresión
 
@@ -91,7 +91,7 @@ Radio = 30 píxeles
 
 Borde = 1 ancho, color rosa
 
-FORMATOS 
+### FORMATOS 
 
 - .svg (Scalable vector graphic)
 
