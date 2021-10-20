@@ -54,3 +54,21 @@ NO CONFUNDIR con la resolución de impresión, medida en puntos por pulgad (ppp)
  - CMYK (Cyan, Magenta, Yellow, Black) para imprimir
 
  - Colores indexados -> Toma hasta 256 colores y se usan solo esos --> GIFs
+
+- Canal (como los 3 canales de RGB) de transparencia. Este canal de llama alfa (α). Los PNG pueden tenerlos, los GIFs o los JPG no.
+
+FORMATOS COMUNES 
+
+- JPG ( y JPEG) --> Tiene congresión
+
+- GIF --> Color indexado. Se puede animar
+
+- PNG --> No tiene compresión. Admite alfa
+
+- TIFF --> Sin compresión
+
+Otros particulures:
+
+- PSO
+
+- RAW (Foto sin comprimir)
