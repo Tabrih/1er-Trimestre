@@ -414,3 +414,8 @@ Funciones básicas:
  - Acesso básico de archivos
 
  - Permitir instalar otros programas
+
+
+# Examen 
+
+
