@@ -109,4 +109,4 @@ Específicos
 
 Formato mezcla Ráster y vectorial
 
--PDF = Portable Document Format
+- PDF = Portable Document Format
