@@ -79,6 +79,8 @@ Otros particulures:
 
 - RAW (Foto sin comprimir)
 
+Imagen Ráster está hecha de píxeles y tiene formatos los .JPG .GIF .PNG.
+
 ## IMÁGENES VECTORIALES
 
 Se define la imagen como un conjunto de formas (Líneas, Puntos,etc) Cada una de estas formas está definida matemáticamente.
@@ -112,3 +114,7 @@ Formato mezcla Ráster y vectorial
 - PDF = Portable Document Format
 
 Rasterizamos una imagen, cuando pasamos de una imagen vectorial a una imagen ráster (mapa de bits).
+
+Vectorizar es pasar de un mapa de bits (Imagen Ráster) a formato vectorial.
+
+Las imágenes vectoriales están formadas de formas.
