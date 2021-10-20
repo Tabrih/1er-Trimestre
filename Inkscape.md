@@ -63,7 +63,7 @@ FORMATOS COMUNES
 
 - GIF --> Color indexado. Se puede animar
 
-![](https://tenor.com/view/the-rock-sus-eye-the-rock-gif-23171646)
+![](https://tenor.com/bJoao.gif)
 
 - PNG --> No tiene compresión. Admite alfa
 
