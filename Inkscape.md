@@ -79,7 +79,7 @@ Otros particulures:
 
 - RAW (Foto sin comprimir)
 
-IMÁGENES VECTORIALES
+## IMÁGENES VECTORIALES
 
 Se define la imagen como un conjunto de formas (Líneas, Puntos,etc) Cada una de estas formas está definida matemáticamente.
 
@@ -90,3 +90,23 @@ Forma = Círculo
 Radio = 30 píxeles
 
 Borde = 1 ancho, color rosa
+
+FORMATOS 
+
+- .svg (Scalable vector graphic)
+
+- .eps
+
+Específicos
+
+- DWG (Autocad)
+
+- DXF (AutoCad)
+
+- 3DM (Rhinoceros)
+
+- AI (Ilustrator)
+
+Formato mezcla Ráster y vectorial
+
+-PDF = Portable Document Format
