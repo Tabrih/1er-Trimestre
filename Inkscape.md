@@ -61,11 +61,15 @@ FORMATOS COMUNES
 
 - JPG ( y JPEG) --> Tiene congresión
 
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/DEATH_NOTE_L_wallpaper.jpg)
+
 - GIF --> Color indexado. Se puede animar
 
 ![](https://c.tenor.com/ZX95mDnlodwAAAAd/the-rock-sus-eye.gif)
 
 - PNG --> No tiene compresión. Admite alfa
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Batman.png)
 
 - TIFF --> Sin compresión
 
