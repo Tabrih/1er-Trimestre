@@ -12,7 +12,7 @@ Tres colores primarios aditivos : Rojo, Verde y Marrón o mejor conocido como RG
 
 Otra forma de colores primarios es llamada: CMYK(Cyan,Magenta,Yellow,Black)
 
-Propiedaddes de una imagen Ráster
+Propiedaddes de una imagen Ráster:
 
 *Resolución*. Un mapa de bits tiene un tamaño concreto de A x B
 
