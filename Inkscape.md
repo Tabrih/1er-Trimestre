@@ -154,9 +154,9 @@ selecionamos la imagen y pulsamos el botón Ajustar página a contenido o selecc
 
 - Subimos al Github
 
-![León 1]()
+![León 1](https://github.com/Tabrih/1er-Trimestre/blob/main/Le%C3%B3n%201.svg)
 
-![León 2]()
+![León 2](https://github.com/Tabrih/1er-Trimestre/blob/main/Le%C3%B3n%202.svg)
 
-![León 3]()
+![León 3](https://github.com/Tabrih/1er-Trimestre/blob/main/Le%C3%B3n%203.svg)
 
