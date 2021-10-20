@@ -156,7 +156,13 @@ selecionamos la imagen y pulsamos el botón Ajustar página a contenido o selecc
 
 ![León 1](https://github.com/Tabrih/1er-Trimestre/blob/main/Le%C3%B3n%201.svg)
 
+Para realizar esta imagen la vectorizé en Inkscape con múltiples pasadas --> colores --> 8 pasadas y obtuvé este resultado.
+
 ![León 2](https://github.com/Tabrih/1er-Trimestre/blob/main/Le%C3%B3n%202.svg)
 
+Para realizar esta imagen la vectorizé en Inkscape e invertí los colores, obteniendo un león blanco con fondo negro y viceversa. Luego les cambié los colores y se quedó así.
+
 ![León 3](https://github.com/Tabrih/1er-Trimestre/blob/main/Le%C3%B3n%203.svg)
+
+Para realizar esta imagen la vectorizé en Inkscape varias veces, tanto una verde como una negra, las sobrepusé y me quedó así. Me gusta, la verdad.
 
