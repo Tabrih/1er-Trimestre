@@ -313,4 +313,3 @@ Cuando tenemos la imagen que nos guste, vamos a la parte superior, específicame
 
 
 
-
