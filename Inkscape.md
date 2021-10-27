@@ -7,17 +7,17 @@
 
 [Imágenes Vectoriales](#imágenes-vectoriales)
 
-[Formatos]()
+[Formatos](#formatos)
 
-[Ejercicio Vectoración]()
+[Ejercicio Vectoración](#ejercicio-vectoración)
 
-[Ejercicio Rasteración]()
+[Ejercicio Rasteración](#ejercicio-rasteración)
 
-[Propiedades de las formas]()
+[Propiedades de las formas](#propiedades-de-las-formas)
 
-[Ejercicio de alineación]()
+[Ejercicio de alineación](#ejercicio-de-alineación)
 
-[Operaciones booleanas con formas]()
+[Operaciones booleanas con formas](#operaciones-booleanas-con-formas)
 
 [Como ajustar el lienzo en Inkscape](#como-ajustar-el-lienzo-en-inkscape)
 
