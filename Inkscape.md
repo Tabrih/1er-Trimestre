@@ -239,7 +239,7 @@ Alineación vertical y horizontal:
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Underground.svg)
 
 
-Alineación con un solo objeto
+Alineación con un solo objeto, en este caso el triángulo:
 
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Mitsubichi.svg)
 
@@ -248,19 +248,35 @@ Alineación con un solo objeto
 
 Proceso de como crear un logo:
 
+Creamos un círculo con la tabla de creación de la izquierda en Inkscape:
+
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Proceso%20logo%201.png)
+
+Creamos un rectángulo con la tabla de creación de la izquierda en Inkscape:
 
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Imágenes/Procesologo2.png)
 
+Creamos un triángulo sobre la esquina del rectángulo con la tabla de creación de la izquierda en Inkscape:
+
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Proceso%20logo%203.png)
+
+Seleccionamos el rectángulo y el triángulo, vamos al apartado trayecto y clickamos en diferencia:
 
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-06-38.png)
 
+Seleccionamos el rectángulo y nos vamos a la flechas de arriba a la izquierda en Inkscape y elegimos la de reflejar los objetos seleccionados verticalmente:
+
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-09-27.png)
+
+Hacemos click derecho sobre el rectángulo y seleccionamos la opción de duplicar. Al hacer esto procedemos a mover ambos rectángulos en el círculo:
 
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-10-00.png)
 
+Seleccionamos el rectángulo de la parte de arriba junto al círculo y de nuevo vamos al apartado de trayecto y clickamos en diferencia:
+
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-10-21.png)
+
+Hacemos lo mismo con el rectángulo de la parte inferior y finalmente obtenemos el logo:
 
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-10-28.png)
 
