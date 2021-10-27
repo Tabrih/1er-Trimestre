@@ -277,6 +277,15 @@ Hacemos lo mismo con el rectángulo de la parte inferior y finalmente obtenemos 
 
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-10-28.png)
 
+## Como ajustar el lienzo en Inkscape
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-40-32.png)
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-43-50.png)
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-43-57.png)
+
+
 
 
 
