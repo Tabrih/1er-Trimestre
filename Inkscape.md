@@ -246,6 +246,22 @@ Alineación con un solo objeto
 
 # Operaciones booleanas con formas
 
+Proceso de como crear un logo:
 
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Proceso%20logo%201.png)
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Imágenes/Proceso logo 2.png)
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Proceso%20logo%203.png)
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-06-38.png)
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-09-27.png)
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-10-00.png)
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-10-21.png)
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-27%2013-10-28.png)
 
 
