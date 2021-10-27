@@ -3,7 +3,7 @@
 
 [Imágenes](#imágenes)
 
-[Formatos Comunes](#formatoscomunes)
+[Formatos Comunes](#formatos-comunes)
 
 [Imágenes Vectoriales]()
 
