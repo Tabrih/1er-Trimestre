@@ -228,7 +228,14 @@ Este sistema mezcla los tres color primarios substractivos ( Cyan,Magenta ,Amari
 RGBa  [1e 3a 5666] --> Byte de color en modo RGB (Hexadecimal)
        R  G  B A
        
+### Ejercicio de alineación
 
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Underground.svg)
+
+
+
+
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Mitsubichi.svg)
 
 
 
