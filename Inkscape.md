@@ -1,6 +1,8 @@
 
                                                    20 de Octubre del 2021
 
+[Imágenes]()
+
 [Formatos Comunes]()
 
 [Imágenes Vectoriales]()
