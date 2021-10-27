@@ -202,6 +202,21 @@ He rasterizado esta imagen a 160x211 píxeles, se ve mucho más grande que la an
 - Trazo (Línea)
 - Estilo de trazo(Línea)
 
-- León.png
+LEÓN 1
 
 ![León.svg](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Le%C3%B3n%201.svg%20Relleno%20con%20borde.svg)
+
+RGBA 
+
+Mezcla de los colores primarios aditivos : Rojo (Red), Verde (Green) y Azul (Blue).
+
+
+HSL (Hue,Saturation,Light)
+
+Tono/Saturación
+
+Este sistema mezcla lo siguiente: 
+-Un de tono de color en la rueda cromática ( Hue, tono de color en inglés) 
+-Un canal de nivel de saturación cromática que va de gris al color (Saturation) 
+-Un canal de luminosidad de color (Light)
+
