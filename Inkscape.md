@@ -169,6 +169,10 @@ Para realizar esta imagen la vectorizé en Inkscape varias veces, tanto una verd
 [Imagen propia]
 
 
+
+                                                      27 de Octubre de 2021
+
+
 ### Ejercicio Rasterización
 
 ![León 1](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Le%C3%B3n%201.png)
