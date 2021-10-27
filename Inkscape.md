@@ -166,3 +166,10 @@ Para realizar esta imagen la vectorizé en Inkscape e invertí los colores, obte
 
 Para realizar esta imagen la vectorizé en Inkscape varias veces, tanto una verde como una negra, las sobrepusé y me quedó así. Me gusta, la verdad.
 
+[Imagen propia]
+
+
+### Ejercicio Rasterización
+
+
+
