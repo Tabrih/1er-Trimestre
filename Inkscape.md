@@ -197,7 +197,7 @@ He rasterizado esta imagen a 160x211 píxeles, se ve mucho más grande que la an
 
 - Desagruparlo -> Varias formas -> Cambiar las propiedades de las formas
 
-3 Elementos 
+3 ELEMENTOS 
 - Relleno "Pincel"
 - Trazo (Línea)
 - Estilo de trazo(Línea)
