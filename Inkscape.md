@@ -203,3 +203,5 @@ He rasterizado esta imagen a 160x211 píxeles, se ve mucho más grande que la an
 - Estilo de trazo(Línea)
 
 - León.png
+
+![León.svg](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Le%C3%B3n%201.svg%20Relleno%20con%20borde.svg)
