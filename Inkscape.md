@@ -247,3 +247,5 @@ Alineación con un solo objeto
 # Operaciones booleanas con formas
 
 
+
+
