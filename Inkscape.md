@@ -230,14 +230,14 @@ RGBa  [1e 3a 5666] --> Byte de color en modo RGB (Hexadecimal)
        
 ### Ejercicio de alineación
 
+Alineación vertical y horizontal:
+
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Underground.svg)
 
 
-
+Alineación con un solo objeto
 
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Mitsubichi.svg)
-
-
 
 
 # Operaciones booleanas con formas
