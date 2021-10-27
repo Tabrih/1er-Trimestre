@@ -171,5 +171,15 @@ Para realizar esta imagen la vectorizé en Inkscape varias veces, tanto una verd
 
 ### Ejercicio Rasterización
 
+![León 1](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Le%C3%B3n%201.png)
+
+![León 2](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Le%C3%B3n%202.png)
+
+![León 3](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Le%C3%B3n%203.png)
+
+![León 4](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Le%C3%B3n%204.png)
+
+![León 5](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Le%C3%B3n%205.png)
+
 
 
