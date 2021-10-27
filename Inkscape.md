@@ -250,7 +250,7 @@ Proceso de como crear un logo:
 
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Proceso%20logo%201.png)
 
-![](https://github.com/Tabrih/1er-Trimestre/blob/main/Imágenes/Proceso logo 2.png)
+![](https://github.com/Tabrih/1er-Trimestre/blob/main/Imágenes/Procesologo2.png)
 
 ![](https://github.com/Tabrih/1er-Trimestre/blob/main/Im%C3%A1genes/Proceso%20logo%203.png)
 
