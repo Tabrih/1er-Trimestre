@@ -227,3 +227,12 @@ Este sistema mezcla los tres color primarios substractivos ( Cyan,Magenta ,Amari
 
 RGBa  [1e 3a 5666] --> Byte de color en modo RGB (Hexadecimal)
        R  G  B A
+       
+
+
+
+
+
+# Operaciones booleanas con formas
+
+
