@@ -221,3 +221,9 @@ Este sistema mezcla lo siguiente:
 - Un canal de luminosidad de color (Light)
 - Un canal de transparencia(Alfa)
 
+CMYK 
+
+Este sistema mezcla los tres color primarios substractivos ( Cyan,Magenta ,Amarillo) y un canal de negro.
+
+RGBa  [1e 3a 5666] --> Byte de color en modo RGB (Hexadecimal)
+       R  G  B A
