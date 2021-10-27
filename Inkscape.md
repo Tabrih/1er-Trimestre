@@ -1,6 +1,15 @@
 
                                                    20 de Octubre del 2021
 
+[Formatos Comunes]()
+[Imágenes Vectoriales]()
+[Formatos]()
+[Ejercicio Vectoración]()
+[Ejercicio Rasteración]()
+[Propiedades de las formas]()
+[Ejercicio de alineación]()
+[Operaciones booleanas con formas]()
+[Como ajustar el lienzo en Inkscape](#como-ajustar-el-lienzo-en-inkscape)
 
 # Imágenes 
 
