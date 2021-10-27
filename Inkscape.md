@@ -201,3 +201,5 @@ He rasterizado esta imagen a 160x211 píxeles, se ve mucho más grande que la an
 - Relleno "Pincel"
 - Trazo (Línea)
 - Estilo de trazo(Línea)
+
+- León.png
