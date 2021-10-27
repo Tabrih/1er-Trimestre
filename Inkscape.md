@@ -5,7 +5,7 @@
 
 [Formatos Comunes](#formatos-comunes)
 
-[Imágenes Vectoriales]()
+[Imágenes Vectoriales](#imágenes-vectoriales)
 
 [Formatos]()
 
