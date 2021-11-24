@@ -24,4 +24,4 @@ Mi mayor hobby
 
 [Montaje de Ordenadores.md](https://github.com/Tabrih/1er-Trimestre/blob/main/Montaje%20de%20Ordenadores.md)
 
-[Inkscape]()
+[Inkscape](https://github.com/Tabrih/1er-Trimestre/blob/main/Inkscape.md)
