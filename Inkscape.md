@@ -24,6 +24,7 @@
 
 [Como ajustar el lienzo en Inkscape](#como-ajustar-el-lienzo-en-inkscape)
 
+[Editor de texto](#editor-de-texto)
 # Imágenes 
 
 Las imágenes se guardan digitalmente de dos maneras:
