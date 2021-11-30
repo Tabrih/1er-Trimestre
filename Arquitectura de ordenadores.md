@@ -21,6 +21,10 @@
 [Creación de un Ordenador](#creaci%C3%B3n-de-un-ordenador)
 
 [Internet y Redes](#internet-y-redes)
+
+[Tarjeta de Sonido](#tarjetas-de-sonido)
+
+
 ## CLASE DE BINARIO
 
 El sistema binario funciona con potencias de 2, por ejemplo 2,4,8,16,32,64.
