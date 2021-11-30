@@ -34,7 +34,7 @@ Tres colores primarios aditivos : Rojo, Verde y Marrón o mejor conocido como RG
 
 Otra forma de colores primarios es llamada: CMYK(Cyan,Magenta,Yellow,Black)
 
-Propiedaddes de una imagen Ráster:
+Propiedades de una imagen Ráster:
 
 *Resolución*. Un mapa de bits tiene un tamaño concreto de A x B
 
@@ -315,6 +315,30 @@ Cuando tenemos la imagen que nos guste, vamos a la parte superior, específicame
 
  Y así tendriamos la imagen ajustada al lienzo.
 
+# Editor de texto
 
+Línea de texto
+Caja de texto
+
+Sans Serial → Normal
+- bold → negrita
+- Italic→ Cursiva
+- bold Italic → negrita crusivo
+
+Tamaño en Puntos (En impresión)
+ - Subtítulo 14-20 pts
+ - Texto para leer en A4: 12 pts
+ - Texto pequeño: 8-10 pts
+ - Letra pequeña del contrato con Satanás 4-6 pts
+ 
+Super Script = Super Índice
+
+Este tipo de escritura es el de las potencias.
+
+Subscript = Sub Índice
+
+Este tipo de escritura es de notación científica.
+
+Espacio entre letras (Interletrado o Kerning)
 
 
