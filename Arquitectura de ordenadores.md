@@ -24,6 +24,7 @@
 
 [Tarjeta de Sonido](#tarjetas-de-sonido)
 
+[Sistema Operativo](#sistema-operativo)
 
 ## CLASE DE BINARIO
 
