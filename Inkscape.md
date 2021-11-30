@@ -316,6 +316,10 @@ Cuando tenemos la imagen que nos guste, vamos a la parte superior, específicame
 
  Y así tendriamos la imagen ajustada al lienzo.
 
+
+                                                  16 de Noviembre de 2021
+
+
 # Editor de texto
 
 Línea de texto
